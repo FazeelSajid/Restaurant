@@ -21,4 +21,3 @@ Discover Recipes: Select a category to view a list of enticing recipes.
 View Recipe Details: Dive into the details of each recipe, including ingredients, instructions, and nutritional facts.
 Favorite Recipes: Mark recipes as favorites to access them conveniently at any time.
 Navigate with Ease: Utilize the intuitive React Native Navigation to effortlessly navigate between screens and sections of the app.
-Whether you're a seasoned chef or an amateur cook, the React Native Food Recipe App is your ultimate companion for culinary exploration and inspiration. Download now and embark on a flavorful journey like never before!
